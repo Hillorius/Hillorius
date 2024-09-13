@@ -1,10 +1,8 @@
-<h3 align="center">A passionate young python developer from Indonesia</h3>
+<h3 align="center">A young developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **some discord bot**
+- 🔭 I’m currently working on **roblox game ig?**
 
-- 📫 How to reach me **ilovethemimic13@gmail.com**
-
-- 🌱 I’m currently learning **pythonn**
+- 🌱 I’m currently learning **pythonn, lua**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
