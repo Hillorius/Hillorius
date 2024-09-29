@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on roblox game<br>I’m currently learning python and lua<br>
+I’m currently working on projects<br>I’m currently learning python and lua<br>
 
 
 # 💻 Tech I Use:
